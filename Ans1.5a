@@ -1,0 +1,68 @@
+Characteristics of Big Data: 
+The eight (8) ‘V’ Dimension Characteristics of Big Data:
+      Part One: Volume, Velocity, Variety
+      Part Two: Variability, Veracity, Virality, Visualization and Value.
+      
+The original three ‘V’ Dimension Characteristics of Big Data identified are:    
+    1) volume (amount of data the size of the data set) Volume Refers to the vast amounts of data generated every second. 
+    We are not talking Terabytes but Zettabytes or Brontobytes. If we take all the data generated in the world between the 
+    beginning of time and 2008, the same amount of data will soon be generated every minute. 
+    This makes most data sets too large to store and analyze using traditional database technology.
+    New big data tools use distributed systems so that we can store and analyze data across databases that are dotted around anywhere
+    in the world.
+    
+    2) velocity (speed of data in and out or data in motion)
+       Velocity Refers to the speed at which new data is generated and the speed at which data moves around.
+      Just think of social media messages going viral in seconds. Technology allows us now to analyze the data while it is being 
+      generated (sometimes referred to as in-memory analytics),without ever putting it into databases.
+    
+    3) variety (range of data types, domains and sources)
+    Variety Refers to the different types of data we can now use. In the past we only focused on structured data that neatly fitted into 
+    tables or relational databases, such as financial data. In fact, 80% of the world’s data is unstructured (text, images, video, voice, etc.) 
+    With big data technology we can now analyze and bring together data of different types such as messages,
+    social media conversations, photos, sensor data, video or voice recordings.
+    
+    4) Variability is often confused with variety. Say you have bakery that sells 10 different breads. That is variety. 
+    Now imagine you go to that bakery three days in a row and every day you buy the same type of bread but each day it tastes and smells different. 
+    That is variability. Variability is thus very relevant in performing sentiment analyses. 
+    Variability means that the meaning is changing (rapidly). In (almost) the same tweets a word can have a totally different meaning.
+    In order to perform a proper sentiment analyses, algorithms need to be able to understand the context and be able to 
+    decipher the exact meaning of a word in that context. This is still very difficult.
+    
+    5)Veracity
+    Having a lot of data in different volumes coming in at high speed is worthless if that data is incorrect. 
+    Incorrect data can cause a lot of problems for organizations as well as for consumers.
+    Therefore, organizations need to ensure that the data is correct as well as the analyses performed on the data are correct.
+    Especially in automated decision-making, where no human is involved anymore, you need to be sure that both the data and 
+    the analyses are correct.
+    
+    6)Virality: 
+    Defined by some users as the rate at which the data spreads; how often it is picked up and repeated by other users 
+    or events. We didn’t find these last four characteristics particularly useful in trying to identify Big Data opportunities from not-so-big-data opportunities. In fact, we think that the original big three:  Volume, Variety, and Velocity come as close as any 
+    but do not by themselves define Big Data.
+    
+    7)Visualization:
+    This is the hard part of big data. Making all that vast amount of data comprehensible in a manner that is easy to understand and read.
+    With the right analyses and visualizations, raw data can be put to use otherwise raw data remains essentially useless. 
+    Visualizing might not be the most technological difficult part; it sure is the most challenging part.
+    Telling a complex story in a graph is very difficult but also extremely crucial. Luckily there are more and more big data startups appearing that focus on this aspect and in the end, visualizations will make the difference. 
+    
+    8)Value:
+    All that available data will create a lot of value for organizations, societies and consumers. Big data means big business and every industry will reap the benefits from big data.  
+    The value is in how organizations will use that data and turn their organization     
+    into an information-centric company that relies on insights derived from data analyses for their decision-making.
+    It is not over yet 
+
+Question 2):The possible solutions for handling big data are scale up and scale out.  Scale up: The process of increasing the configuration of a single system, like disk capacity, 
+            RAM, data transfer speed, etc is called Scale Up. 
+            Moreover it is a complex, costly, and a time consuming process    
+            Scale Out: The process of using multiple commodity (economical) machines and distribute the load of storage/processing among them. 
+
+Question 3): The major difference between Scale up and scale out is given below. The terms "scale up" and "scale out" are commonly used in discussing different trategies for adding functionality to hardware systems. 
+            They are fundamentally different ways of addressing the need for more processor capacity, memory and other resources. 
+            Scaling up generally refers to purchasing and installing a more capable central control or piece of hardware. For example,
+            when a project’s input/output demands start to push against the limits of an individual server,
+            a scaling up approach would be to buy a more capable server with more processing capacity and RAM.  
+            By contrast, scaling out means linking together other lower-performance machines to collectively do the work of a much more 
+            advanced one. With these types of distributed setups, 
+            it's easy to handle a larger workload by running data through different system trajectories. 
